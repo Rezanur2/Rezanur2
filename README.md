@@ -2,16 +2,25 @@
 
 
 <h1 align="center">Hi 👋, I'm Md. Rezanur Rahman</h1>
-<h3 align="center">A passionate Full-Stack developer</h3>
+<h3 align="center">A passionate Full-Stack Developer</h3>
 
-- 🌱 I’m currently learning **React**
+<h2 align="left">👨‍💻 About Me</h2>
+I'm a Physics student at Kushtia Government College under National University, Bangladesh, with a strong interest in Web Development and Software Engineering.
 
-- 📫 How to reach me **mdrezanurrahman2@gmail.com**
+I enjoy building websites from scratch. My primary focus is on MERN Stack Development and Advanced JavaScript. I have learned TypeScript and am currently exploring modern JavaScript frameworks.
+
+- 🌱 I’m currently learning **React** and exploring modern JavaScript frameworks.
+- 🚀 I’m continuously improving my **problem-solving and software development skills**.
+
+<h3 align="left">📫 Contact Me</h3>
+
+- 📍 **Location:** Kushtia, Bangladesh
+- 📫 **Email:** mdrezanurrahman2@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-rezanur-rahman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-rezanur-rahman/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/md.rezanur.rahman.846106/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/md.rezanur.rahman.846106/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-rezanur-rahman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-rezanur-rahman/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/md.rezanur.rahman.846106/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/md.rezanur.rahman.846106/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
