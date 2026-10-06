@@ -1,4 +1,4 @@
-<img width="2172" height="724" alt="Neon Full-Stack Developer Banner" src="https://github.com/user-attachments/assets/a0846f04-a9c2-498c-90ff-86d7af0ff89d" />
+<img width="2172" height="724" alt="Modern Full-Stack Developer Portfolio Banner" src="https://github.com/user-attachments/assets/26b10cb0-c8e4-4e01-80b0-d83700bf2814" />
 
 
 
