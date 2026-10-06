@@ -1,4 +1,6 @@
-<img width="1186" height="474" alt="51e9bb61843441f2bef8eb330e2b8ef0" src="https://github.com/user-attachments/assets/6e7f467d-b82e-453e-ba7d-943959e979e6" />
+<img width="2172" height="724" alt="Neon Full-Stack Developer Banner" src="https://github.com/user-attachments/assets/a0846f04-a9c2-498c-90ff-86d7af0ff89d" />
+
+
 
 
 <h1 align="center">Hi 👋, I'm Md. Rezanur Rahman</h1>
